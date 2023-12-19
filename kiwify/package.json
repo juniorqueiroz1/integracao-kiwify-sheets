@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@google-cloud/functions-framework": "^3.0.0",
+    "googleapis": "128.0.0"
+  }
+}
